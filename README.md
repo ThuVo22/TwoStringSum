@@ -1,5 +1,5 @@
 # TwoStringSum
-This web app is used to find the total of two strings as integers. It will prompt the users two almost infinity strings as integers and then find the addition of them in the order from right to left .
+Web app helps elementary students to learn the concept, algorithm of adding two very big numbers. Applied Spring Boot with Thymeleaf, Bootstrap and integrated AJAX to update the result without reloading the page.
 
 **Languages**: Java, JavaScript, Html/Css <br />
 **The technologies used**: SpringBoot, Thymeleaf, Bootstrap. Applied Ajax so it does not need to load the page for the result.
