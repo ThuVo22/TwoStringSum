@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+#progress-text {
+	border-radius: 0px 5px 5px 0px;
+	padding: 0 5px;
+	max-height: 16px;
+	margin-top: 6px;
+	text-align: center;
+	font-size: 11px;
+	width: 49px;
+	font-weight: bold;
+}
+
+#progress {
+	position: relative;
+	margin-top: 6px;
+	background: #fff;
+	border-radius: 5px 0px 0px 5px;
+}
+
+.result-text {
+	padding: 5px 20px;
+	height: 136px;
+	background: rgb(233, 236, 239);
+	overflow: auto;
+}
+
+#progress-bar {
+	width: 0%;
+}
+
+.container {
+	padding: 20px;
+}
+
+#wrapper {
+	margin-bottom: 70px;
+}
+
+.card {
+	margin-top: 10px;
+}
+
+#text-numberA, #text-numberB {
+	overflow: hidden;
+}
+
+#result {
+	height: 38px;
+	background: rgb(233, 236, 239);
+	overflow: visible;
+}
