@@ -1,4 +1,4 @@
-package com.fsoft.spring;
+package com.twostringsum.spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
